@@ -1,0 +1,134 @@
+{
+  "survival": {
+    "name": "Survival",
+    "emoji": "🌳",
+    "host": "127.0.0.1",
+    "rconPort": 25575,
+    "rconPassword": "dylan",
+    "directory": "/servers/survival",
+    "systemdService": "survival",
+    "software": "Paper",
+    "minecraftVersion": "1.21.11",
+    "maxPlayers": 25,
+    "statusIntervalMinutes": 3,
+    "discord": {
+      "1418590847196463227": {
+        "statusChannelId": "1535650129346957344",
+        "chatChannelId": "66666"
+      },
+      "1522716289335034059": {
+        "statusChannelId": "1537993060888092782",
+        "chatChannelId": "SECOND_CHAT_CHANNEL_ID"
+      }
+    }
+  },
+  "gearcraft": {
+    "name": "GearCraft",
+    "emoji": "⚙️",
+    "host": "127.0.0.1",
+    "rconPort": 25576,
+    "rconPassword": "bob31",
+    "directory": "/servers/GearCraft",
+    "systemdService": "gearcraft",
+    "software": "Fabric",
+    "minecraftVersion": "1.20.1",
+    "maxPlayers": 20,
+    "modpackUrl": "https://www.dropbox.com/scl/fi/qcv4047n0yks7o3wttude/mods-2.zip?rlkey=2r8yptvdp8ffhpgvaimiwitpc&st=sya7kflo&dl=0",
+    "statusIntervalMinutes": 3,
+    "discord": {
+      "1418590847196463227": {
+        "statusChannelId": "1535650129346957344",
+        "chatChannelId": "666666666666666666"
+      },
+      "1522716289335034059": {
+        "statusChannelId": "1537993060888092782",
+        "chatChannelId": "SECOND_CHAT_CHANNEL_ID"
+      }
+    }
+  },
+  "livesteal": {
+    "name": "Livesteal",
+    "emoji": "❤️",
+    "comingSoon": true,
+    "software": "Paper",
+    "minecraftVersion": "1.21.11",
+    "maxPlayers": 50,
+    "discord": {
+      "1418590847196463227": {
+        "statusChannelId": "1535650129346957344"
+      },
+      "SECOND_DISCORD_SERVER_ID": {
+        "statusChannelId": "SECOND_STATUS_CHANNEL_ID",
+        "chatChannelId": "SECOND_CHAT_CHANNEL_ID"
+      }
+    }
+  },
+  "hub": {
+    "name": "Hub",
+    "emoji": "🏠",
+    "comingSoon": true,
+    "software": "Paper",
+    "minecraftVersion": "1.21.11",
+    "maxPlayers": 100,
+    "discord": {
+      "1418590847196463227": {
+        "statusChannelId": "1535650129346957344"
+      },
+      "SECOND_DISCORD_SERVER_ID": {
+        "statusChannelId": "SECOND_STATUS_CHANNEL_ID",
+        "chatChannelId": "SECOND_CHAT_CHANNEL_ID"
+      }
+    }
+  },
+  "bedwars": {
+    "name": "Bedwars",
+    "emoji": "🛏️",
+    "comingSoon": true,
+    "software": "Paper",
+    "minecraftVersion": "1.21.11",
+    "maxPlayers": 100,
+    "discord": {
+      "1418590847196463227": {
+        "statusChannelId": "1535650129346957344"
+      },
+      "SECOND_DISCORD_SERVER_ID": {
+        "statusChannelId": "SECOND_STATUS_CHANNEL_ID",
+        "chatChannelId": "SECOND_CHAT_CHANNEL_ID"
+      }
+    }
+  },
+  "skyblock": {
+    "name": "Skyblock",
+    "emoji": "☁️",
+    "comingSoon": true,
+    "software": "Paper",
+    "minecraftVersion": "1.21.11",
+    "maxPlayers": 100,
+    "discord": {
+      "1418590847196463227": {
+        "statusChannelId": "1535650129346957344"
+      },
+      "SECOND_DISCORD_SERVER_ID": {
+        "statusChannelId": "SECOND_STATUS_CHANNEL_ID",
+        "chatChannelId": "SECOND_CHAT_CHANNEL_ID"
+      }
+    }
+  },
+  "pvp": {
+    "name": "PvP",
+    "emoji": "⚔️",
+    "comingSoon": true,
+    "software": "Paper",
+    "minecraftVersion": "1.21.11",
+    "maxPlayers": 100,
+    "discord": {
+      "1418590847196463227": {
+        "statusChannelId": "1535650129346957344"
+      },
+      "SECOND_DISCORD_SERVER_ID": {
+        "statusChannelId": "SECOND_STATUS_CHANNEL_ID",
+        "chatChannelId": "SECOND_CHAT_CHANNEL_ID"
+      }
+    }
+  }
+}
